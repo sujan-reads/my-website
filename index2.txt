@@ -1,1 +1,2 @@
 mytext.txt
+creating a conflict for index
